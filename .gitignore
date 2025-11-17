@@ -1,0 +1,22 @@
+# Byte-code files
+*.pyc
+__pycache__/
+
+# Puzzle Input Files
+*input.txt
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System files
+.DS_Store
+Thumbs.db
